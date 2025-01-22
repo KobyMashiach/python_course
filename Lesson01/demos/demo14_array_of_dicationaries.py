@@ -4,4 +4,4 @@ arr = [
     {"id": 3, "name": "Dana"},
 ]
 for ptr in arr:
-    print((len)(ptr["name"]))
+    print((len(ptr["name"])))
