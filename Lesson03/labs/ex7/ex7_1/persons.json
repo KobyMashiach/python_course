@@ -1,0 +1,24 @@
+{
+    "persons": [
+        {
+            "Name": "Koby Mashiach",
+            "Address": {
+                "City": "Tel Aviv",
+                "Street": {
+                    "Name": "Dizengoff",
+                    "Number": "123"
+                }
+            }
+        },
+        {
+            "Name": "Hodaya Mashiach",
+            "Address": {
+                "City": "Jerusalem",
+                "Street": {
+                    "Name": "Ben Yehuda",
+                    "Number": "45"
+                }
+            }
+        }
+    ]
+}
